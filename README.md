@@ -82,7 +82,7 @@ Email: iamabdullahitijani@gmail.com
 GitHub: @TheYoungestDev
 Let's embark on this coding journey together and make the most out of ALX Pre-Course!
 
-Happy coding!
+Happy coding.!
 
 
 
